@@ -19,3 +19,11 @@ if __name__ == "__main__":
     print("Original list:", values)
     insertion_sort_descending(values)
     print("Sorted list:", values)
+
+
+
+assert insertion_sort_descending([]) == []
+assert insertion_sort_descending([5]) == [5]
+assert insertion_sort_descending([3, 1, 3]) == [3, 3, 1]
+assert insertion_sort_descending([-2, 0, -5]) == [0, -2, -5]
+print("All tests passed.")
