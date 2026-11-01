@@ -1,0 +1,181 @@
+dataset,n,algorithm,metric,trial,value
+Sorted,500,Merge sort,runtime_ns,1,656333
+Sorted,500,Quicksort,runtime_ns,1,10427208
+Sorted,500,Quicksort,runtime_ns,2,10403000
+Sorted,500,Merge sort,runtime_ns,2,694167
+Sorted,500,Merge sort,runtime_ns,3,729125
+Sorted,500,Quicksort,runtime_ns,3,10568750
+Sorted,500,Quicksort,runtime_ns,4,10698541
+Sorted,500,Merge sort,runtime_ns,4,769917
+Sorted,500,Merge sort,runtime_ns,5,761958
+Sorted,500,Quicksort,runtime_ns,5,10720000
+Sorted,500,Quicksort,runtime_ns,6,10721792
+Sorted,500,Merge sort,runtime_ns,6,779125
+Sorted,500,Merge sort,runtime_ns,7,656208
+Sorted,500,Quicksort,runtime_ns,7,10488458
+Sorted,500,Merge sort,peak_bytes,1,8960
+Sorted,500,Quicksort,peak_bytes,1,672
+Sorted,500,Merge sort,peak_bytes,2,8960
+Sorted,500,Quicksort,peak_bytes,2,672
+Sorted,500,Merge sort,peak_bytes,3,8960
+Sorted,500,Quicksort,peak_bytes,3,672
+Reverse sorted,500,Merge sort,runtime_ns,1,705459
+Reverse sorted,500,Quicksort,runtime_ns,1,7635875
+Reverse sorted,500,Quicksort,runtime_ns,2,7764000
+Reverse sorted,500,Merge sort,runtime_ns,2,659166
+Reverse sorted,500,Merge sort,runtime_ns,3,670334
+Reverse sorted,500,Quicksort,runtime_ns,3,7434625
+Reverse sorted,500,Quicksort,runtime_ns,4,7522167
+Reverse sorted,500,Merge sort,runtime_ns,4,645458
+Reverse sorted,500,Merge sort,runtime_ns,5,658709
+Reverse sorted,500,Quicksort,runtime_ns,5,7298625
+Reverse sorted,500,Quicksort,runtime_ns,6,7440166
+Reverse sorted,500,Merge sort,runtime_ns,6,714416
+Reverse sorted,500,Merge sort,runtime_ns,7,719708
+Reverse sorted,500,Quicksort,runtime_ns,7,7319917
+Reverse sorted,500,Merge sort,peak_bytes,1,8960
+Reverse sorted,500,Quicksort,peak_bytes,1,664
+Reverse sorted,500,Merge sort,peak_bytes,2,8960
+Reverse sorted,500,Quicksort,peak_bytes,2,664
+Reverse sorted,500,Merge sort,peak_bytes,3,8960
+Reverse sorted,500,Quicksort,peak_bytes,3,664
+Random,500,Merge sort,runtime_ns,1,740333
+Random,500,Quicksort,runtime_ns,1,385625
+Random,500,Quicksort,runtime_ns,2,398000
+Random,500,Merge sort,runtime_ns,2,777125
+Random,500,Merge sort,runtime_ns,3,781791
+Random,500,Quicksort,runtime_ns,3,402458
+Random,500,Quicksort,runtime_ns,4,405583
+Random,500,Merge sort,runtime_ns,4,797792
+Random,500,Merge sort,runtime_ns,5,837084
+Random,500,Quicksort,runtime_ns,5,384166
+Random,500,Quicksort,runtime_ns,6,382625
+Random,500,Merge sort,runtime_ns,6,768917
+Random,500,Merge sort,runtime_ns,7,764542
+Random,500,Quicksort,runtime_ns,7,383250
+Random,500,Merge sort,peak_bytes,1,8960
+Random,500,Quicksort,peak_bytes,1,3176
+Random,500,Merge sort,peak_bytes,2,8960
+Random,500,Quicksort,peak_bytes,2,3176
+Random,500,Merge sort,peak_bytes,3,8960
+Random,500,Quicksort,peak_bytes,3,3176
+Sorted,1000,Merge sort,runtime_ns,1,1597500
+Sorted,1000,Quicksort,runtime_ns,1,44681000
+Sorted,1000,Quicksort,runtime_ns,2,45388167
+Sorted,1000,Merge sort,runtime_ns,2,1683709
+Sorted,1000,Merge sort,runtime_ns,3,1605917
+Sorted,1000,Quicksort,runtime_ns,3,45293041
+Sorted,1000,Quicksort,runtime_ns,4,44413583
+Sorted,1000,Merge sort,runtime_ns,4,1554208
+Sorted,1000,Merge sort,runtime_ns,5,1583833
+Sorted,1000,Quicksort,runtime_ns,5,45118250
+Sorted,1000,Quicksort,runtime_ns,6,46726542
+Sorted,1000,Merge sort,runtime_ns,6,1643000
+Sorted,1000,Merge sort,runtime_ns,7,1593750
+Sorted,1000,Quicksort,runtime_ns,7,44734708
+Sorted,1000,Merge sort,peak_bytes,1,13512
+Sorted,1000,Quicksort,peak_bytes,1,672
+Sorted,1000,Merge sort,peak_bytes,2,13512
+Sorted,1000,Quicksort,peak_bytes,2,672
+Sorted,1000,Merge sort,peak_bytes,3,13512
+Sorted,1000,Quicksort,peak_bytes,3,672
+Reverse sorted,1000,Merge sort,runtime_ns,1,1633292
+Reverse sorted,1000,Quicksort,runtime_ns,1,32499542
+Reverse sorted,1000,Quicksort,runtime_ns,2,31445917
+Reverse sorted,1000,Merge sort,runtime_ns,2,1558833
+Reverse sorted,1000,Merge sort,runtime_ns,3,1571083
+Reverse sorted,1000,Quicksort,runtime_ns,3,32298292
+Reverse sorted,1000,Quicksort,runtime_ns,4,31457208
+Reverse sorted,1000,Merge sort,runtime_ns,4,1666084
+Reverse sorted,1000,Merge sort,runtime_ns,5,1610083
+Reverse sorted,1000,Quicksort,runtime_ns,5,31623500
+Reverse sorted,1000,Quicksort,runtime_ns,6,32064167
+Reverse sorted,1000,Merge sort,runtime_ns,6,1643958
+Reverse sorted,1000,Merge sort,runtime_ns,7,1575333
+Reverse sorted,1000,Quicksort,runtime_ns,7,32539375
+Reverse sorted,1000,Merge sort,peak_bytes,1,13512
+Reverse sorted,1000,Quicksort,peak_bytes,1,700
+Reverse sorted,1000,Merge sort,peak_bytes,2,13512
+Reverse sorted,1000,Quicksort,peak_bytes,2,700
+Reverse sorted,1000,Merge sort,peak_bytes,3,13512
+Reverse sorted,1000,Quicksort,peak_bytes,3,700
+Random,1000,Merge sort,runtime_ns,1,1921375
+Random,1000,Quicksort,runtime_ns,1,1025417
+Random,1000,Quicksort,runtime_ns,2,851042
+Random,1000,Merge sort,runtime_ns,2,1695959
+Random,1000,Merge sort,runtime_ns,3,1744208
+Random,1000,Quicksort,runtime_ns,3,906125
+Random,1000,Quicksort,runtime_ns,4,1046708
+Random,1000,Merge sort,runtime_ns,4,1787292
+Random,1000,Merge sort,runtime_ns,5,1834667
+Random,1000,Quicksort,runtime_ns,5,920250
+Random,1000,Quicksort,runtime_ns,6,950208
+Random,1000,Merge sort,runtime_ns,6,1840917
+Random,1000,Merge sort,runtime_ns,7,1846333
+Random,1000,Quicksort,runtime_ns,7,961709
+Random,1000,Merge sort,peak_bytes,1,13512
+Random,1000,Quicksort,peak_bytes,1,3316
+Random,1000,Merge sort,peak_bytes,2,13512
+Random,1000,Quicksort,peak_bytes,2,3316
+Random,1000,Merge sort,peak_bytes,3,13512
+Random,1000,Quicksort,peak_bytes,3,3316
+Sorted,2000,Merge sort,runtime_ns,1,3763750
+Sorted,2000,Quicksort,runtime_ns,1,185511667
+Sorted,2000,Quicksort,runtime_ns,2,187653083
+Sorted,2000,Merge sort,runtime_ns,2,3703250
+Sorted,2000,Merge sort,runtime_ns,3,3642292
+Sorted,2000,Quicksort,runtime_ns,3,186648750
+Sorted,2000,Quicksort,runtime_ns,4,187655416
+Sorted,2000,Merge sort,runtime_ns,4,3573834
+Sorted,2000,Merge sort,runtime_ns,5,3597375
+Sorted,2000,Quicksort,runtime_ns,5,186603166
+Sorted,2000,Quicksort,runtime_ns,6,187986458
+Sorted,2000,Merge sort,runtime_ns,6,3740375
+Sorted,2000,Merge sort,runtime_ns,7,3312250
+Sorted,2000,Quicksort,runtime_ns,7,199865292
+Sorted,2000,Merge sort,peak_bytes,1,22036
+Sorted,2000,Quicksort,peak_bytes,1,672
+Sorted,2000,Merge sort,peak_bytes,2,22036
+Sorted,2000,Quicksort,peak_bytes,2,672
+Sorted,2000,Merge sort,peak_bytes,3,22036
+Sorted,2000,Quicksort,peak_bytes,3,672
+Reverse sorted,2000,Merge sort,runtime_ns,1,3553709
+Reverse sorted,2000,Quicksort,runtime_ns,1,128394541
+Reverse sorted,2000,Quicksort,runtime_ns,2,129820209
+Reverse sorted,2000,Merge sort,runtime_ns,2,3589625
+Reverse sorted,2000,Merge sort,runtime_ns,3,3582416
+Reverse sorted,2000,Quicksort,runtime_ns,3,127523333
+Reverse sorted,2000,Quicksort,runtime_ns,4,128007875
+Reverse sorted,2000,Merge sort,runtime_ns,4,3525250
+Reverse sorted,2000,Merge sort,runtime_ns,5,3542041
+Reverse sorted,2000,Quicksort,runtime_ns,5,127683416
+Reverse sorted,2000,Quicksort,runtime_ns,6,128601250
+Reverse sorted,2000,Merge sort,runtime_ns,6,3557541
+Reverse sorted,2000,Merge sort,runtime_ns,7,3884375
+Reverse sorted,2000,Quicksort,runtime_ns,7,127782125
+Reverse sorted,2000,Merge sort,peak_bytes,1,22036
+Reverse sorted,2000,Quicksort,peak_bytes,1,700
+Reverse sorted,2000,Merge sort,peak_bytes,2,22036
+Reverse sorted,2000,Quicksort,peak_bytes,2,700
+Reverse sorted,2000,Merge sort,peak_bytes,3,22036
+Reverse sorted,2000,Quicksort,peak_bytes,3,700
+Random,2000,Merge sort,runtime_ns,1,4151083
+Random,2000,Quicksort,runtime_ns,1,2243750
+Random,2000,Quicksort,runtime_ns,2,2005250
+Random,2000,Merge sort,runtime_ns,2,3911417
+Random,2000,Merge sort,runtime_ns,3,3972000
+Random,2000,Quicksort,runtime_ns,3,2181875
+Random,2000,Quicksort,runtime_ns,4,2211792
+Random,2000,Merge sort,runtime_ns,4,4069792
+Random,2000,Merge sort,runtime_ns,5,4075667
+Random,2000,Quicksort,runtime_ns,5,2228916
+Random,2000,Quicksort,runtime_ns,6,2226084
+Random,2000,Merge sort,runtime_ns,6,4090709
+Random,2000,Merge sort,runtime_ns,7,4112417
+Random,2000,Quicksort,runtime_ns,7,2228791
+Random,2000,Merge sort,peak_bytes,1,22036
+Random,2000,Quicksort,peak_bytes,1,3856
+Random,2000,Merge sort,peak_bytes,2,22036
+Random,2000,Quicksort,peak_bytes,2,3856
+Random,2000,Merge sort,peak_bytes,3,22036
+Random,2000,Quicksort,peak_bytes,3,3856

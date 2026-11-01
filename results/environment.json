@@ -1,0 +1,30 @@
+{
+  "recorded_at_utc": "2026-11-01T18:18:40.452604+00:00",
+  "course": "Algorithms and Data Structures",
+  "python_version": "3.9.6 (v3.9.6:db3ff76da1, Jun 28 2021, 11:49:53) \n[Clang 6.0 (clang-600.0.57)]",
+  "platform": "macOS-10.16-x86_64-i386-64bit",
+  "machine": "x86_64",
+  "cpu_model": "i386",
+  "logical_cpus_visible": 14,
+  "sizes": [
+    500,
+    1000,
+    2000
+  ],
+  "seed": 20261101,
+  "randomization": "One shuffled distinct-integer permutation per size, seed + n",
+  "timing_repeats": 7,
+  "memory_repeats": 3,
+  "timer": "time.perf_counter_ns",
+  "memory": "Median peak newly traced Python allocations during sorting",
+  "excluded": [
+    "input generation",
+    "input copy",
+    "validation",
+    "pre-existing input objects"
+  ],
+  "limitations": "Traced allocations are not total process memory or complete native stack memory. Memory tracing is disabled during timing.",
+  "source_sha256": {
+    "sorting.py": "fc89b46d4e767015e37d2a5030728ec6b24580bb25277adf56a74aba52b34e3d"
+  }
+}
